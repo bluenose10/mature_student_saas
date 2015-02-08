@@ -1,8 +1,18 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 @import "font-awesome-sprockets";
-@import "font-awesome"; 
+@import "font-awesome";  
 
+h1{ 
+   color: white;
+} 
+ 
+h5{ 
+   color: white;
+} 
+h4{ 
+   color: white;
+}
 .alert-notice { 
   color: #31708f;
   background-color: #d9edf7;
